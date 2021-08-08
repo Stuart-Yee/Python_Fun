@@ -25,6 +25,8 @@ if __name__ == "__main__":
     print(user2.name)
     print(user2.say_hello())
 
+print("hello")
+
 
 
 
